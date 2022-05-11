@@ -32,5 +32,23 @@
       "name_church": "Titulo da igreja",
       "created_at": "2022-01-25T16:56:53.862Z"
     }
+  ],
+  "schools": [
+    {
+      "school_name": "Escola discipuladora",
+      "courses": [
+        { "course_name": "curso 1", "qtd_turmas": 2 },
+        { "course_name": "curso 2", "qtd_turmas": 1 },
+        { "course_name": "curso 3", "qtd_turmas": 4 }
+      ]
+    },
+    {
+      "school_name": "Escola do Samuel",
+      "courses": [
+        { "course_name": "curso 1", "qtd_turmas": 3 },
+        { "course_name": "curso 2", "qtd_turmas": 1 },
+        { "course_name": "curso 3", "qtd_turmas": 2 }
+      ]
+    }
   ]
 }
