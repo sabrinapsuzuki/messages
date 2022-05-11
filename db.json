@@ -35,19 +35,45 @@
   ],
   "schools": [
     {
+      "id": 1,
       "school_name": "Escola discipuladora",
       "courses": [
-        { "course_name": "curso 1", "qtd_turmas": 2 },
-        { "course_name": "curso 2", "qtd_turmas": 1 },
-        { "course_name": "curso 3", "qtd_turmas": 4 }
+        {
+          "id": 1,
+          "course_name": "curso 1",
+          "qtd_turmas": 2
+        },
+        {
+          "id": 2,
+          "course_name": "curso 2",
+          "qtd_turmas": 1
+        },
+        {
+          "id": 3,
+          "course_name": "curso 3",
+          "qtd_turmas": 4
+        }
       ]
     },
     {
+      "id": 2,
       "school_name": "Escola do Samuel",
       "courses": [
-        { "course_name": "curso 1", "qtd_turmas": 3 },
-        { "course_name": "curso 2", "qtd_turmas": 1 },
-        { "course_name": "curso 3", "qtd_turmas": 2 }
+        {
+          "id": 1,
+          "course_name": "curso 1",
+          "qtd_turmas": 3
+        },
+        {
+          "id": 2,
+          "course_name": "curso 2",
+          "qtd_turmas": 1
+        },
+        {
+          "id": 3,
+          "course_name": "curso 3",
+          "qtd_turmas": 2
+        }
       ]
     }
   ]
