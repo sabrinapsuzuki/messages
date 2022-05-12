@@ -102,5 +102,17 @@
         "class_id": 64
       }
     ]
+  },
+  "class": {
+    "class_name": "Turma teste 2",
+    "course_name": "Teste de novo curso sem lições",
+    "school_name": "Escola teste",
+    "day": "domingo",
+    "hour": "10:00",
+    "start_date": "10/07/22",
+    "school_id": 10,
+    "course_id": 8,
+    "class_id": 64,
+    "lessons": ["lição 1", "lição 2", "lição 3", "lição 4"]
   }
 }
