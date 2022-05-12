@@ -76,5 +76,24 @@
         }
       ]
     }
-  ]
+  ],
+  "course": {
+    "school_id": 10,
+    "course_id": 8,
+    "course_name": "Teste de novo curso sem lições",
+    "classes": [
+      {
+        "school_id": 10,
+        "course_id": 8,
+        "class_id": 44,
+        "class_name": "Turma teste 1"
+      },
+      {
+        "school_id": 10,
+        "course_id": 8,
+        "class_id": 64,
+        "class_name": "Turma teste 2"
+      }
+    ]
+  }
 }
