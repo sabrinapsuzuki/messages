@@ -81,6 +81,7 @@
     "school_id": 10,
     "course_id": 8,
     "course_name": "Teste de novo curso sem lições",
+    "school_name": "Escola teste",
     "classes": [
       {
         "class_name": "Turma teste 1",
