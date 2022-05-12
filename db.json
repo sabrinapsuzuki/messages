@@ -83,16 +83,22 @@
     "course_name": "Teste de novo curso sem lições",
     "classes": [
       {
+        "class_name": "Turma teste 1",
+        "day": "terça",
+        "hour": "19:00",
+        "start_date": "25/06/22",
         "school_id": 10,
         "course_id": 8,
-        "class_id": 44,
-        "class_name": "Turma teste 1"
+        "class_id": 44
       },
       {
+        "class_name": "Turma teste 2",
+        "day": "domingo",
+        "hour": "10:00",
+        "start_date": "10/07/22",
         "school_id": 10,
         "course_id": 8,
-        "class_id": 64,
-        "class_name": "Turma teste 2"
+        "class_id": 64
       }
     ]
   }
