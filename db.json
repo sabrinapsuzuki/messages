@@ -137,28 +137,5 @@
       "avatar": "https://ca.slack-edge.com/T0250CM8A-U02SK64M928-bcf3ee2cf992-512",
       "created_at": "2022-03-14 T16:56:53"
     }
-  ],
-  "reports-not-sent": [
-    {
-      "id": 1,
-      "title": "Líder do pg",
-      "subtitle": "Local do pg",
-      "avatar": "https://ca.slack-edge.com/T0250CM8A-U02SK64M928-bcf3ee2cf992-512",
-      "created_at": "2022-01-25 T16:56:53"
-    },
-    {
-      "id": 2,
-      "title": "Líder do pg",
-      "subtitle": "Local do pg",
-      "avatar": "https://ca.slack-edge.com/T0250CM8A-U02SK64M928-bcf3ee2cf992-512",
-      "created_at": "2022-02-27 T16:56:53"
-    },
-    {
-      "id": 3,
-      "title": "Líder do pg",
-      "subtitle": "Local do pg",
-      "avatar": "https://ca.slack-edge.com/T0250CM8A-U02SK64M928-bcf3ee2cf992-512",
-      "created_at": "2022-03-14 T16:56:53"
-    }
   ]
 }
